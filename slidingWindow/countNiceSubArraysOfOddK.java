@@ -1,5 +1,5 @@
 package slidingWindow;
-//CountNice Sub Arrays
+//CountNice Sub Arrays of odd K
 public class countNiceSubArraysOfOddK {
     public static int niceSubArrays(int arr[], int k){
         int n = arr.length;
